@@ -1,5 +1,8 @@
 # Analysis-and-Visualization-of-COVID-19-Dataset
-
+```
+Name : Vikhram S
+Reg No : 212222060295
+```
 ## Aim
 
 To analyse a large real-world COVID-19 dataset using Python by performing data exploration and visualizing key trends through various plots such as line graph, bar chart, pie chart, scatter plot, and histogram for meaningful insights.
